@@ -111,6 +111,7 @@ section {
 
 /* Responsividade */
 
+/* Small Desktops */
 @media (max-width: 1000px) {
   header .container {
     width: 100%;
@@ -152,6 +153,10 @@ section {
   }
 
   nav {
+    position: fixed;
+    top: unset;
+    bottom: 0;
+    width: 100%;
     padding: 15px;
   }
 
