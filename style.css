@@ -433,10 +433,6 @@ footer {
     padding: 0 40px;
   }
 
-  header .container img {
-    margin-top: 50px;
-  }
-
   nav {
     position: fixed;
     top: unset;
