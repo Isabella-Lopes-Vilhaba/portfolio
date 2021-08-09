@@ -5,13 +5,18 @@
   --green: #15CDCB;
   --bg-dark: #212226;
   --light-grey: #E0DEDE;
-  --medium-grey: #2f3034
-
+  --medium-grey: #2f3034;
+  
   --menu-height: 75px;
+  --teste: 75px;
 }
 
 * {
 	box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 html, body {
