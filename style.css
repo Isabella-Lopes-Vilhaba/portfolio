@@ -477,5 +477,6 @@ footer {
   .curriculum .container .content .curriculum-info {
     padding: 0 15px;
     grid-gap: 0.8rem;
+    font-size: 0.7rem;
   }
 }
